@@ -1,0 +1,14 @@
+projeto-final/pesos/*
+!projeto-final/pesos/.gitkeep 
+
+projeto-final/modelos/*
+!projeto-final/modelos/.gitkeep 
+
+projeto-final/classificadores/*
+!projeto-final/classificadores/.gitkeep 
+
+projeto-final/.ipynb_checkpoints
+
+.DS_Store
+
+projeto-final/raiox/
